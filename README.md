@@ -4,6 +4,6 @@
 </picture>
 
 <picture>
-    <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=slavce14&theme=react-dark&bg_color=ffffff&radius=10&area=true&color=0064ff&line=0064ff&hide_border=true&point=0064ff"  media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=slavce14&theme=react-dark&bg_color=00000f&radius=10&area=true&color=0064ff&line=0064ff&hide_border=true">
+    <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=slavce14&theme=react-dark&bg_color=ffffff&radius=10&area=true&color=0064ff&line=0064ff&point=0064ff"  media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=slavce14&theme=react-dark&bg_color=00000f&radius=10&area=true&color=0064ff&line=0064ff">
 </picture>
